@@ -2,7 +2,7 @@
 
 There are 2 sound modes, each one is working independently from the other, in other words only one can be activated each time.
 
-If there's no sound, or if something doesn't sound right change the sound mode to Covox or PSG.
+If there's no sound, or if something doesn't sound right, change the sound mode to Covox or PSG.
   
 # BK0011M for [MIST Board](https://github.com/mist-devel/mist-board/wiki)
 
