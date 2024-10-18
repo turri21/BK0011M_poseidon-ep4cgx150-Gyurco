@@ -1,4 +1,10 @@
-﻿# BK0011M for [MIST Board](https://github.com/mist-devel/mist-board/wiki)
+-=(Poseidon notes)=-
+
+There are 2 sound modes, each one is working independently from the other, in other words only one can be activated each time.
+
+If there's no sound, or if something doesn't sound right change the sound mode to Covox or PSG.
+  
+# BK0011M for [MIST Board](https://github.com/mist-devel/mist-board/wiki)
 
 This project of [popular USSR home computer](https://en.wikipedia.org/wiki/Electronika_BK) is based on precise [KR1801VM1](http://zx-pk.ru/showthread.php?t=23978) Verilog model by Vslav
 
